@@ -62,11 +62,6 @@ help - get detailed help
 ping - ping bot
 log - bot log [owner only]
 ```
-
-# How to deploy?
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
 ## Setting up config file
 ```
 cp config_sample.env config.env
